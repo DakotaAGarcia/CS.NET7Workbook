@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll

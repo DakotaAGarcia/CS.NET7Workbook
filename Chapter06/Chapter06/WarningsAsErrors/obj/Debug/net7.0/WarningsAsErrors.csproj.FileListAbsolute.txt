@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.exe
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.deps.json
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.runtimeconfig.json
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.dll
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\bin\Debug\net7.0\WarningsAsErrors.pdb
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.dll
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\refint\WarningsAsErrors.dll
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.pdb
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\WarningsAsErrors.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter06\Chapter06\WarningsAsErrors\obj\Debug\net7.0\ref\WarningsAsErrors.dll

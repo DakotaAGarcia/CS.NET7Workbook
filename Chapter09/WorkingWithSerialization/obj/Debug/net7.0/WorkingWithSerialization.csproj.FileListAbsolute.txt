@@ -1,0 +1,17 @@
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.exe
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.dll
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.dll
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\refint\WorkingWithSerialization.dll
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\cs11dotnet7\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CopyComplete

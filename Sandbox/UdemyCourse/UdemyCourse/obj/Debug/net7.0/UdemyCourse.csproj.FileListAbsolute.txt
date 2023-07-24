@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\bin\Debug\net7.0\UdemyCourse.exe
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\bin\Debug\net7.0\UdemyCourse.deps.json
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\bin\Debug\net7.0\UdemyCourse.runtimeconfig.json
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\bin\Debug\net7.0\UdemyCourse.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\bin\Debug\net7.0\UdemyCourse.pdb
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\refint\UdemyCourse.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.pdb
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\UdemyCourse.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UdemyCourse\obj\Debug\net7.0\ref\UdemyCourse.dll

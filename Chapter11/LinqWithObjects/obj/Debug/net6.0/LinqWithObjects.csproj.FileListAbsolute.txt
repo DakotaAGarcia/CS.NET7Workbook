@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter11\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.exe
+C:\cs11dotnet7\Chapter11\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.deps.json
+C:\cs11dotnet7\Chapter11\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.runtimeconfig.json
+C:\cs11dotnet7\Chapter11\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.dll
+C:\cs11dotnet7\Chapter11\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.pdb
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.dll
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\refint\LinqWithObjects.dll
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.pdb
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter11\LinqWithObjects\obj\Debug\net6.0\ref\LinqWithObjects.dll

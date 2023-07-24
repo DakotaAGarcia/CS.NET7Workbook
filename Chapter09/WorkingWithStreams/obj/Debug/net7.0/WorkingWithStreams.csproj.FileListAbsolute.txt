@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.exe
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.dll
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.dll
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\refint\WorkingWithStreams.dll
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\ref\WorkingWithStreams.dll

@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\bin\Debug\net7.0\WorkingWithTarArchives.exe
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\bin\Debug\net7.0\WorkingWithTarArchives.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\bin\Debug\net7.0\WorkingWithTarArchives.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\bin\Debug\net7.0\WorkingWithTarArchives.dll
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\bin\Debug\net7.0\WorkingWithTarArchives.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.dll
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\refint\WorkingWithTarArchives.dll
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\WorkingWithTarArchives.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithTarArchives\obj\Debug\net7.0\ref\WorkingWithTarArchives.dll

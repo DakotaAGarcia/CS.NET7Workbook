@@ -1,0 +1,10 @@
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+C:\cs11dotnet7\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

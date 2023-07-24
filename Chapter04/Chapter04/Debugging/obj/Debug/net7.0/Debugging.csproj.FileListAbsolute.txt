@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter04\Chapter04\Debugging\obj\Debug\net7.0\ref\Debugging.dll

@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.exe
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.dll
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.dll
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\refint\WorkingWithFileSystems.dll
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\ref\WorkingWithFileSystems.dll

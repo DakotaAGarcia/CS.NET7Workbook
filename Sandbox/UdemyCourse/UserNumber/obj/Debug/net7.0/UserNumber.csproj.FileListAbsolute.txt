@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\bin\Debug\net7.0\UserNumber.exe
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\bin\Debug\net7.0\UserNumber.deps.json
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\bin\Debug\net7.0\UserNumber.runtimeconfig.json
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\bin\Debug\net7.0\UserNumber.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\bin\Debug\net7.0\UserNumber.pdb
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\refint\UserNumber.dll
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.pdb
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\UserNumber.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter10\UdemyCourse\UserNumber\obj\Debug\net7.0\ref\UserNumber.dll

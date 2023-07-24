@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.exe
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.deps.json
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.runtimeconfig.json
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.dll
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.dll
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\refint\WorkingWithEncodings.dll
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.pdb
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\ref\WorkingWithEncodings.dll

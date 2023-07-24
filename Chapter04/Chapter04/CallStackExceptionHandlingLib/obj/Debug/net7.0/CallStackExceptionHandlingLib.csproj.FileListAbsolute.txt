@@ -1,0 +1,12 @@
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.deps.json
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.dll
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.pdb
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.dll
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\refint\CallStackExceptionHandlingLib.dll
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.pdb
+C:\cs11dotnet7\Chapter04\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\ref\CallStackExceptionHandlingLib.dll

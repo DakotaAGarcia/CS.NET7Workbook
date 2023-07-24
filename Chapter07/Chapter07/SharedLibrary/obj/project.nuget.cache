@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hT1i6V02QW/diqt/vpIJ7FFmf7SLKr/R5IPh3KfwsUZIV1si5JJ45WNzdS+VQvb0BC+RT9QQkOInIto/3YbjbA==",
+  "success": true,
+  "projectFilePath": "C:\\cs11dotnet7\\Chapter07\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DGarcia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DGarcia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

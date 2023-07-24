@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\bin\Debug\net7.0\CodeAnalyzing.exe
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\bin\Debug\net7.0\CodeAnalyzing.deps.json
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\bin\Debug\net7.0\CodeAnalyzing.runtimeconfig.json
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\bin\Debug\net7.0\CodeAnalyzing.dll
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\bin\Debug\net7.0\CodeAnalyzing.pdb
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.dll
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\refint\CodeAnalyzing.dll
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.pdb
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\CodeAnalyzing.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter06\Chapter06\CodeAnalyzer\obj\Debug\net7.0\ref\CodeAnalyzing.dll

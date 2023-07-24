@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.exe
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.deps.json
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.dll
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\bin\Debug\net7.0\WorkingWithNetworkResources.pdb
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.dll
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\refint\WorkingWithNetworkResources.dll
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.pdb
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter08\WorkingWithNetworkResources\obj\Debug\net7.0\ref\WorkingWithNetworkResources.dll

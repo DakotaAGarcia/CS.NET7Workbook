@@ -1,0 +1,15 @@
+C:\cs11dotnet7\Chapter03\BooleanOperators\bin\Debug\net7.0\BooleanOperators.exe
+C:\cs11dotnet7\Chapter03\BooleanOperators\bin\Debug\net7.0\BooleanOperators.deps.json
+C:\cs11dotnet7\Chapter03\BooleanOperators\bin\Debug\net7.0\BooleanOperators.runtimeconfig.json
+C:\cs11dotnet7\Chapter03\BooleanOperators\bin\Debug\net7.0\BooleanOperators.dll
+C:\cs11dotnet7\Chapter03\BooleanOperators\bin\Debug\net7.0\BooleanOperators.pdb
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.dll
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\refint\BooleanOperators.dll
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.pdb
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\BooleanOperators.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter03\BooleanOperators\obj\Debug\net7.0\ref\BooleanOperators.dll
